@@ -1,5 +1,5 @@
-# makerlab-103-Polly
-# Alexa lab
+# Polly Say Lab and Alexa lab
+
 Resource files for the Polly Maker lab #103
 These are included in the AWS Solution Achitect Certification lectures # 48, 49 and 50.
 
@@ -13,8 +13,6 @@ IMPORTANT :: CREATE A 'NEW' AWS Account for this workshop. Using an existing acc
 
 You should never install anything in an AWS account that is not supported (i.e. written and support by you, verified and supported by you, or under a 3rd party support arrangement).  To verify a ‘thing’ you could absolutely install it in an isolated test environment, but even then under a watchful eye, especially if the ‘thing’ is going to incur costs.
 
-
 ## IMPORTANT
+
 These files are distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied
-
-
