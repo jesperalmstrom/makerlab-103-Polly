@@ -1,5 +1,7 @@
 # makerlab-103-Polly
+# Alexa lab
 Resource files for the Polly Maker lab #103
+These are included in the AWS Solution Achitect Certification lectures # 48, 49 and 50.
 
 Prepared by Ryan Kroonenburg 2017
 
