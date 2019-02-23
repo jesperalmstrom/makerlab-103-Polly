@@ -1,7 +1,12 @@
 # Polly Say Lab and Alexa lab
 
-Resource files for the Polly Maker lab #103
 These are included in the AWS Solution Achitect Certification lectures # 48, 49 and 50.
+
+Detailed instructions about the Polly lab can be found here:
+<https://github.com/kamalikap/Amazon-Polly-Text-to-Speech-converter/blob/master/README.md>
+
+---
+Resource files for the Polly Maker lab #103
 
 Prepared by Ryan Kroonenburg 2017
 
